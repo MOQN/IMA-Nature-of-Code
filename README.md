@@ -2,7 +2,7 @@
 Interactive Media Arts (IMA) at NYU Shanghai
 
 ## Class Materials
-* [Course Notes | Spring 2021]()
+* [Course Notes | Fall 2021]()
 * [Empty Sketch on Glitch]()
 
 ## Course Information

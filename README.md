@@ -2,18 +2,17 @@
 Interactive Media Arts (IMA) at NYU Shanghai
 
 ## Class Materials
-* [Course Notes | Fall 2021]()
-* [Empty Sketch on Glitch]()
+* [Course Notes | Fall 2021](https://docs.google.com/document/d/1MDHpYCoOG09ujAOl9OF1QPv4Pva4LG7kiY_XPKwryTs/edit?usp=sharing)
 
 ## Course Information
 * Instructor: [J.H. Moon](mailto:jh.moon@nyu.edu)
   * Office: Room 939
   * Virtual Office Hours: by appointment via Slack or email.
 * Class meeting days and times: Wednesday, 4:15pm to 7:15pm 
-* [Syllabus]()
-* [Resources]()
-* [Course Schedule Overview]()
-* [Course Policies]()
+* Syllabus
+* Resources
+* Course Schedule Overview
+* Course Policies
 
 ### Description
 “How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?” – Daniel Shiffman

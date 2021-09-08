@@ -8,11 +8,11 @@ Interactive Media Arts (IMA) at NYU Shanghai
 * Instructor: [J.H. Moon](mailto:jh.moon@nyu.edu)
   * Office: Room 939
   * Virtual Office Hours: by appointment via Slack or email.
-* Class meeting days and times: Wednesday, 4:15pm to 7:15pm 
-* Syllabus
-* Resources
-* Course Schedule Overview
-* Course Policies
+* Class meeting days and times: 4:15pm to 7:15pm, Wednesday
+* [Syllabus](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit?usp=sharing)
+* [Resources](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.7hn1xbffa92p)
+* [Course Schedule Overview](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.y6mbbsoi6t21)
+* [Course Policies](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.azhyd49tdw8p)
 
 ### Description
 “How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?” – Daniel Shiffman

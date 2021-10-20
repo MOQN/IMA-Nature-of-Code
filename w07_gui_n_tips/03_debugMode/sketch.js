@@ -1,4 +1,4 @@
-let DEBUGMODE = false;
+let DEBUG_MODE = false;
 
 let x, y, dia;
 let vibrationRange;
@@ -16,7 +16,7 @@ function setup() {
 function draw() {
   background(0);
 
-  if (DEBUGMODE) {
+  if (DEBUG_MODE) {
     noFill();
     stroke(255);
   } else {
@@ -29,4 +29,13 @@ function draw() {
     ellipse(x + vX, y + vY, dia, dia);
   }
 
+  fill(255);
+  noStroke();
+  text('Press "SpaceBar" to toggle the debug mode.', 10, 20);
+}
+
+function keyPressed() {
+  if (key == " ") {
+    DEBUG_MODE = !DEBUG_MODE;
+  }
 }

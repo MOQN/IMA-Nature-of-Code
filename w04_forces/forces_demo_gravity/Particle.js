@@ -21,7 +21,7 @@ class Particle {
     translate(this.pos.x, this.pos.y);
 
     stroke(255);
-    fill(255,80);
+    fill(255, 80);
     ellipse(0, 0, this.dia, this.dia);
     fill(255, 0, 0);
 

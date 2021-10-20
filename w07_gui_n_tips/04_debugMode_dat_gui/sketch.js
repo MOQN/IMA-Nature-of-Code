@@ -10,7 +10,6 @@ gui.add(params, 'diameter');
 gui.add(params, 'vibrationRange');
 
 
-
 function setup() {
   createCanvas(500, 600);
   background(0);
@@ -34,5 +33,4 @@ function draw() {
     let vY = random(-params.vibrationRange, params.vibrationRange);
     ellipse(x + vX, y + vY, params.diameter, params.diameter);
   }
-
 }

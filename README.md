@@ -1,14 +1,11 @@
-# Nature of Code | Spring 2023
+# Nature of Code | Spring 2024
 Interactive Media Arts (IMA) at NYU Shanghai
 
 ## Class Materials
-* [Course Notes | Spring 2023](https://docs.google.com/document/d/1MDHpYCoOG09ujAOl9OF1QPv4Pva4LG7kiY_XPKwryTs/edit?usp=sharing)
+* [Course Notes | Spring 2024](https://docs.google.com/document/d/1MDHpYCoOG09ujAOl9OF1QPv4Pva4LG7kiY_XPKwryTs/edit?usp=sharing)
 
 ## Course Information
 * Instructor: [J.H. Moon](mailto:jh.moon@nyu.edu)
-  * Office: Room W839
-  * Office Hours: Thusday 1-3pm and Friday 1-3pm by appointment via Slack or email.
-* Class meeting days and times: 4:15pm to 7:15pm, Wednesday
 * [Syllabus](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit?usp=sharing)
 * [Resources](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.7hn1xbffa92p)
 * [Course Schedule Overview](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.y6mbbsoi6t21)

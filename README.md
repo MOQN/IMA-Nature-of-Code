@@ -3,7 +3,6 @@ Interactive Media Arts (IMA) at NYU Shanghai
 
 ## Class Materials
 * [Course Schedule](https://docs.google.com/document/d/1MDHpYCoOG09ujAOl9OF1QPv4Pva4LG7kiY_XPKwryTs/edit?usp=sharing)
-* [Class Activities](https://docs.google.com/document/d/1gJToSCRMu63UHz8aldrMLfDnyeRGa7oOqcstTJZoNEw/edit?usp=sharing)
 * [NOC Example Codes](https://docs.google.com/document/d/1XXrNkb-zUkC2w2fc-NTL_ITAX9V2IAJN77ujE5Sdg_o/edit?usp=sharing)
 * [CCLab Example Codes](https://docs.google.com/document/d/1masmL6N1l2b4Ri0J3toLdc429WmJyn-DZs8urx_yP84/edit?usp=sharing)
 

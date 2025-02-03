@@ -4,18 +4,16 @@ Interactive Media Arts (IMA) at NYU Shanghai
 
 ## Class Materials
 
-- [Course Schedule](https://docs.google.com/document/d/1MDHpYCoOG09ujAOl9OF1QPv4Pva4LG7kiY_XPKwryTs/edit?usp=sharing)
-- [Class Activities](https://docs.google.com/document/d/1gJToSCRMu63UHz8aldrMLfDnyeRGa7oOqcstTJZoNEw/edit?usp=sharing)
-- [NOC Example Codes](https://docs.google.com/document/d/1XXrNkb-zUkC2w2fc-NTL_ITAX9V2IAJN77ujE5Sdg_o/edit?usp=sharing)
-- [CCLab Example Codes](https://docs.google.com/document/d/1masmL6N1l2b4Ri0J3toLdc429WmJyn-DZs8urx_yP84/edit?usp=sharing)
+- [Course Website](https://moqn.github.io/IMA-Nature-of-Code/)
 
 ## Course Information
 
 - Instructor: [J.H. Moon](mailto:jh.moon@nyu.edu)
 - [Syllabus](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit?usp=sharing)
-- [Resources](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.7hn1xbffa92p)
-- [Course Schedule Overview](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.y6mbbsoi6t21)
-- [Course Policies](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.azhyd49tdw8p)
+  - These links will open the syllabus in Google Docs.
+  - [Resources](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.7hn1xbffa92p)
+  - [Course Schedule Overview](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.y6mbbsoi6t21)
+  - [Course Policies](https://docs.google.com/document/d/1fNX57oIpGL1dCpywXw035ivzZdmToGSTvdMhtscEHoY/edit#bookmark=id.azhyd49tdw8p)
 
 ### Description
 

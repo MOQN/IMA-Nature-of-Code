@@ -1,0 +1,103 @@
+/* import font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Raleway:ital,wght@0,300..600;1,300..600&family=Noto+Sans+Mono:wght@400;600&display=swap');
+
+:root {
+  /* Primary Theme Color */
+  --theme-color: #4A249D;
+  --link-color: #009FBD;
+}
+
+pre,
+code {
+  font-family: 'Noto Sans Mono', monospace !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1C1678 !important;
+  text-decoration: underline;
+  text-decoration-thickness: 3px !important;
+  text-decoration-color: rgb(0, 255, 255, 0.5) !important;
+  /* Override link hover color */
+}
+
+body,
+.markdown-section {
+  font-family: 'Raleway', sans-serif !important;
+  font-size: 16px;
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3 {
+  font-family: 'Roboto Slab', serif !important;
+}
+
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+  font-family: 'Raleway', sans-serif !important;
+}
+
+.markdown-section h1 a,
+.markdown-section h2 a,
+.markdown-section h3 a,
+.markdown-section h4 a,
+.markdown-section h5 a,
+.markdown-section h6 a {
+  font-weight: 500;
+}
+
+
+
+.markdown-section {
+  max-width: 900px !important;
+  /* Adjust as needed */
+  padding: 5rem;
+  margin: 0 auto;
+}
+
+.sidebar {
+  background-color: #F9FAFA !important;
+  padding: 2rem;
+  max-width: 16rem;
+}
+
+
+.sidebar h1 a,
+.sidebar h2 a,
+.sidebar h3 a {
+  font-family: 'Roboto Slab', serif !important;
+  font-weight: 500;
+}
+
+.sidebar h4 a,
+.sidebar h5 a,
+.sidebar h6 a {
+  font-family: 'Roboto Slab', serif !important;
+  font-weight: 500;
+  color: var(--text-color) !important;
+}
+
+.sidebar p a {
+  color: var(--text-color) !important;
+}
+
+.sidebar ul {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.sidebar li {
+  margin: 2px 0 !important;
+  padding: 0px 0 !important;
+}
+
+.sidebar hr {
+  background-color: #FFF;
+  border: none;
+  height: 1px;
+}

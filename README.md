@@ -4,7 +4,7 @@ Interactive Media Arts (IMA) at NYU Shanghai
 
 ## Class Materials
 
-- [Course Website](https://moqn.github.io/IMA-Nature-of-Code/)
+- [Course Notes](https://docs.google.com/document/d/1MDHpYCoOG09ujAOl9OF1QPv4Pva4LG7kiY_XPKwryTs/edit?usp=sharing)
 
 ## Course Information
 
